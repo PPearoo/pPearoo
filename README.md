@@ -1,16 +1,41 @@
-### Hi there 👋
+# 🐈 Pearoo
+### <sup>`he/him`</sup>
+## Python, Flutter, Web development
 
-<!--
-**PearooXD/PearooXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------
 
-Here are some ideas to get you started:
+### Projects
+✨ [`ezi18n`](https://pypi.org/projects/ezi18n) - Python package for easy localization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 [`reFilc`](https://refilc.hu/) - A client for the hungarian students' application called KRÉTA
+
+🤖 [`FightMan01 bot`](https://fightman01bot.hu/) - Hungary's most popular Discord bot
+
+🌐 [`pearoo.dev`](https://pearoo.dev/) - My website (source code on [PearooXD/pearooxd.github.io](https://github.com/PearooXD/pearooxd.github.io))
+
+------
+
+### WIP
+### <sup>(some projects I'm working on, BTS)</sup>
+
+## Codename: Lumin
+- Refactoring code of FightMan01 bot and making it international
+
+## reFilc UwU mode
+- For all of the silly boys out there
+
+## ezer24 & ezer23
+- My hungarian youtube channels
+- [`Website`](https://ezer24.pearoo.dev/)
+
+-------
+
+### Personal info
+
+👋 My name is **Dominik**, I'm a Hungarian high school student, learning software development.
+
+📍 I live in **Budapest**, the capital of Hungary.
+
+💬 I speak **English** as a second language, and I want to learn how to speak Russian, Polish, German and Japanese in the future.
+
+🤔 You might know me from Discord, as I'm active in Sound's World, and I was active in No Text To Speech's server.
