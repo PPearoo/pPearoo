@@ -40,3 +40,4 @@
 
 🤔 You might know me from Discord, as I'm active in Sound's World, and I was active in No Text To Speech's server.
 </details>
+<img src="https://komarev.com/ghpvc/?username=pearooxd&color=red" alt="Profile Views">
