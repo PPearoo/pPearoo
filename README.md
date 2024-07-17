@@ -6,26 +6,22 @@
 
 ✨ [`ezi18n`](https://pypi.org/project/ezi18n) - Python package for easy localization
 
-📚 [`reFilc`](https://refilc.hu/) - A client for the hungarian students' application called KRÉTA
+📚 [`reFilc`](https://refilc.hu/) - A client for the hungarian students' application "KRÉTA"
 
 🤖 [`FightMan01 bot`](https://fightman01bot.hu/) - Hungary's most popular Discord bot
 
-🌐 [`pearoo.dev`](https://pearoo.dev/) - My website (source code on [PearooXD/pearooxd.github.io](https://github.com/PearooXD/pearooxd.github.io))
+🌐 [`pearoo.dev`](https://pearoo.dev/) - My website (source code: [PearooXD/pearooxd.github.io](https://github.com/PearooXD/pearooxd.github.io))
 
 ------
 <details>
   <summary>⌚ WIP</summary>
-<sup>(some projects I'm working on, BTS)</sup>
+<sup>(some projects I'm working on behind the scenes)</sup>
 
 ## Codename: Lumin
-- Refactoring code of FightMan01 bot and making it international
+- Refactoring the code of Hungary's most popular bot and making a localized international version
 
-## reFilc UwU mode
-- For all of the silly boys out there
-
-## ezer24 & ezer23
-- My hungarian youtube channels
-- [`Website`](https://ezer24.pearoo.dev/)
+## Youtube
+- [`Link`](https://youtube.com/Pearoo)
 </details>
 
 -------
